@@ -1,0 +1,16 @@
+# Ignore Python environments
+venv/
+__pycache__/
+*.pyc
+
+# Ignore Streamlit logs
+*.log
+
+# Jupyter stuff
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+
+# Model files (optional, but often large)
+*.pkl
